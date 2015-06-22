@@ -6,11 +6,46 @@
   <LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen>
 </head>
 <body>
-  <h1 style="text-align: center; color: blue; "> Homework <h1>
-    <href =""> Add Homework </a>
-      <table>
-        <tr>
-          <th>Monday<th>
+    <h1> Homework </h1> 
+        <a href="Add homework page" STYLE="text-decoration: none"> Add Homework </a> 
+          <table border= "2"> 
+             <tr > 
+               <th>Monday</th> 
+               <th>Tuesday</th>
+               <th>Wednesday</th>
+               <th>Thursday</th>
+               <th>Friday</th>
+            </tr>
+            <tr>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+           </tr>
+            <tr>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+           </tr>
+               <tr>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+           </tr>
+               <tr>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+              <td>  Insert Data </td>
+           </tr>
+         </table>
+     <p><strong> Do you have any homework? </strong> </p>
         
 
 </body>
